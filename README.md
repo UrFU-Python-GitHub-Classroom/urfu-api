@@ -57,7 +57,7 @@ def handler(message):
        result = ""
        for group in suggestions:
            result += f"{group['value']}\n"
-       bot.send_message(message.from_user.id, text)
+       bot.send_message(message.from_user.id, result)
 
 
 if __name__ == '__main__':
