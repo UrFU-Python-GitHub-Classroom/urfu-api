@@ -24,7 +24,7 @@ API УрФУ (https://urfu.ru/api/) поддерживает несколько 
 * `pyTelegramBotAPI` - Telegram API для Python
 * `BeautifulSoup` - парсинг HTML и XML
 
-### Дополнительные файлы для HEROKU (должны быть в корне репозитория)
+### Дополнительные файлы для HEROKU (должны быть в корне репозитория):
 * [Procfile](Procfile) - файл запуска приложения
 * [runtime.txt](runtime.txt) - окружение выполнения кода
 * [requirements.txt](requirements.txt) - зависимости окружения Python
