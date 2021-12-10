@@ -18,7 +18,7 @@ API УрФУ (https://urfu.ru/api/) поддерживает несколько 
 
 # Задача
 
-На языке Python реализовать чат-бота для Telegram и развернуть на HEROKU
+На языке Python реализовать чат-бота для Telegram и развернуть на HEROKU ([использовать деплой из GitHub](https://i.imgur.com/CWPSGIZ.png))
 
 ### Библиотеки, которые могут понадобиться:
 * `pyTelegramBotAPI` - Telegram API для Python
